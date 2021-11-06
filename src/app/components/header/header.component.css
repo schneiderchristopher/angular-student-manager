@@ -1,0 +1,14 @@
+header mat-toolbar {
+  padding: 32px;
+  height: 76px;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  margin: 0 15px;
+}
